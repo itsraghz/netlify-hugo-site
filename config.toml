@@ -1,0 +1,60 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Raghs Hugo Blogs"
+#theme = "ananke" 
+theme = "fuji"
+#theme = "cupper-hugo-theme"
+#theme = "hugo-coder"
+
+disqusShortname = "itsraghz"
+include_toc = false
+show_comments = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Enable user to embed HTML snippets in Markdown content
+  [markup.highlight]
+    codeFences = true  # Disable Hugo's code highlighter
+
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 4
+
+[taxonomies]
+  tag = "tags"
+
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Archives"
+    url = "/archives/"
+    weight = 2
+  [[menu.nav]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+  [[menu.nav]]
+    name = "Search"
+    url = "/search/"
+    weight = 4
+  [[menu.nav]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 5
+
+  [[menu.link]]
+    name = "GitHub"
+    url = "https://github.com/itsraghz"
+    weight = 1
+  [[menu.link]]
+    name = "Twitter"
+    url = "https://twitter.com/itsraghz"
+    weight = 2
+  [[menu.link]]
+    name = "Linked In"
+    url = "https://linkedin.com/in/itsraghz"
+    weight = 3
