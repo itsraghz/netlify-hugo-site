@@ -4,7 +4,7 @@ date: 2021-05-25T08:44:39+05:30
 tags:
   - personal
   - first
-draft: true
+draft: false
 ---
 
 My first blog post using _Hugo_ static site generator on the day of _Vaikasi Visagam_ today - 25th May 2021, Tuesday.

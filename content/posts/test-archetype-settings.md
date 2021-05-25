@@ -1,7 +1,7 @@
 ---
 title: "Test Archetype Settings"
 date: 2021-05-25T15:37:58+05:30
-draft: true
+draft: false
 tags:
   - TODO
 toc: false

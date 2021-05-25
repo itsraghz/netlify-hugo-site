@@ -1,7 +1,7 @@
 ---
 title: "Setup Hugo in Live Server"
 date: 2021-05-25T14:55:27+05:30
-draft: true
+draft: false
 tags:
   - technical
   - hugo

@@ -1,7 +1,7 @@
 ---
 title: "Hugo Notes"
 date: 2021-05-25T13:57:52+05:30
-draft: true
+draft: false
 tags:
   - technical
   - hugo
