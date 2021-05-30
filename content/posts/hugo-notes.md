@@ -6,7 +6,7 @@ tags:
   - technical
   - hugo
 toc: true
-weight: 1
+weight: 2
 ---
 
 This post will contain the essentials of [_Hugo_](https://gohugo.io/) - Static Site Generator and the associated
