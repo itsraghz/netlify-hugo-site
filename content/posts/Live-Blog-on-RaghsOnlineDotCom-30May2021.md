@@ -30,7 +30,7 @@ The links that were helpful are given below.
 
 ## Todo 
 
- * Security Certificates via [LetsEncrypt](http://letsencrypt.com)
+ * Security Certificates via [LetsEncrypt](https://letsencrypt.org/)
  * Proper domain set up - may be a subdomain of *blog* as [http://blog.raghsonline.com](http://blog.raghsonline.com) OR [http://raghsonline.com/blog](http://raghsonline.com/blog)
  * Migration of old blog posts from different sources :) 
  * Few other security measures if any.
