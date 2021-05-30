@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Raghs Hugo Blogs"
+title = "Blogs of Raghs"
 #theme = "ananke" 
 theme = "fuji"
 #theme = "cupper-hugo-theme"
