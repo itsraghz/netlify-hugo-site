@@ -1,7 +1,7 @@
 ---
 title: "Intro to Groovy"
 date: 2021-06-03T08:59:50+05:30
-draft: true
+draft: false
 tags: ["Technical", "Groovy"]
 toc: true
 ---
