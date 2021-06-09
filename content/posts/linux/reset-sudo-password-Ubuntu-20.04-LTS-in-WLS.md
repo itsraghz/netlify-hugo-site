@@ -2,8 +2,7 @@
 title: "Reset Sudo Password Ubuntu 20"
 date: 2021-06-09T22:32:44+05:30
 draft: false
-tags:
-  - ["Technical", "WLS", "Ubuntu", "Troubleshooting"]
+tags: ["Technical", "WLS", "Ubuntu", "Troubleshooting"]
 toc: true
 ---
 
