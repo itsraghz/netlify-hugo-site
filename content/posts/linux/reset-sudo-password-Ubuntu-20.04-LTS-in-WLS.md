@@ -1,5 +1,5 @@
 ---
-title: "Reset Sudo Password Ubuntu 20"
+title: "Reset Sudo Password Ubuntu 20.04 LTS in WLS"
 date: 2021-06-09T22:32:44+05:30
 draft: false
 tags: ["Technical", "WLS", "Ubuntu", "Troubleshooting"]
