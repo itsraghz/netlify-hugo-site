@@ -6,8 +6,6 @@ tags: ["Technical", "WLS", "Ubuntu", "Troubleshooting"]
 toc: true
 ---
 
-# Reset Sudo Password Ubuntu 20.0 LTS in WLS
-
 This blog post explains the steps needed to reset the `sudo` password for the `Ubuntu 20.04 LTS` version 
 in the *WLS* (Windows for Linux SubSystem) - *Windows 10*. 
 
