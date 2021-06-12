@@ -19,6 +19,10 @@ directory of my Hugo site, and it can be referred with my context root (host nam
 
 It is that simple :) 
 
+## Actual Image for the reference 
+
+<img src="https://raghsonline.com/Raghs.jpg" alt="Raghavan alias Saravanan Muthu">Raghs</img>
+
 Cheers,\
 RM...\
 _Raghavan alias Saravanan Muthu_\
