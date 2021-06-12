@@ -23,6 +23,10 @@ It is that simple :)
 
 <img src="https://raghsonline.com/Raghs.jpg" alt="Raghavan alias Saravanan Muthu">Raghs</img>
 
+## References
+
+* https://gohugo.io/content-management/static-files/
+
 Cheers,\
 RM...\
 _Raghavan alias Saravanan Muthu_\
