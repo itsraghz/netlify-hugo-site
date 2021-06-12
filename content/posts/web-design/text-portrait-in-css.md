@@ -51,6 +51,8 @@ background-position: center;
 
 <img src='https://raghsonline.com/raghs-text-portrait.jpg' alt='Raghs - Text Portrait'/>
 
+<img src='https://raghsonline.com/raghs-twitter-pic-portrait.jpg' alt='Raghs-Twitter Pic - Text Portrait'/>
+
 
 ## Reference 
 
