@@ -21,7 +21,7 @@ It is that simple :)
 
 ## Actual Image for the reference 
 
-<img src="https://raghsonline.com/Raghs.jpg" alt="Raghavan alias Saravanan Muthu">Raghs</img>
+<img src="https://raghsonline.com/Raghs.jpg" alt="Raghavan alias Saravanan Muthu"/>
 
 ## References
 
