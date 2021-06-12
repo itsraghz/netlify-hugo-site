@@ -3,7 +3,7 @@ title: "How to Add Images to Hugo Site"
 date: 2021-06-12T11:11:42+05:30
 draft: false
 tags: ["hugo"]
-toc: false
+toc: true
 ---
 
 # How to Add Images to Hugo Site
