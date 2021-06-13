@@ -48,6 +48,27 @@ MariaDB [itsraghz]> select now() from dual;
 MariaDB [itsraghz]>
 ```
 
+### Way 2 - with a meaningful column name in the output using `AS` clause
+
+The default output column name comes with the name of the `function` unless it is modified explicitly. We can modify 
+it via the `AS <Name>` clause. 
+
+This way, we can have a short but meaningful name for a better understanding.
+
+### Command Output
+
+```sql
+MariaDB [itsraghz]> select now() as "Current Server Time" from dual;
++---------------------+
+| Current Server Time |
++---------------------+
+| 2021-06-13 14:58:07 |
++---------------------+
+1 row in set (0.01 sec)
+
+MariaDB [itsraghz]>
+```
+
 Cheers,\
 RM...\
 _Raghavan alias Saravanan Muthu_\
