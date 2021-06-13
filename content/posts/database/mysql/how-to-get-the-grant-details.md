@@ -1,12 +1,12 @@
 ---
-title: "How to Get the Grant Details"
+title: "How to get the Grant Details"
 date: 2021-06-13T13:36:29+05:30
 draft: false
 tags: ["Database", "MySQL"]
 toc: true
 ---
 
-# How to Get the Grant Details in MySQL
+# How to get the Grant Details in MySQL
 
 In this blog post, we will see how to get the privileges granted for a particular user, or the currently logged in 
 user with the MySQL Database. 

@@ -1,5 +1,5 @@
 ---
-title: "How to Get the Current User Details"
+title: "How to get the Current User Details"
 date: 2021-06-13T11:22:15+05:30
 draft: false
 tags: ["Database", "MySQL"]
