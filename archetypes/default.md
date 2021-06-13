@@ -4,7 +4,7 @@ date: {{ .Date }}
 draft: true
 tags:
   - TODO
-toc: false
+toc: true
 ---
 
 # {{ replace .Name "-" " " | title }} - to be renamed accordingly
@@ -12,6 +12,7 @@ toc: false
 The content for the blog post with the title &rarr; "{{ replace .Name "-" " " | title }}" will go here.
 
 <!--more-->
+
 
 Cheers,\
 RM...\
