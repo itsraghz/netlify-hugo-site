@@ -8,7 +8,7 @@ toc: true
 
 # Current Date Time in the `default.md` file
 
-This a blog post to explore the different formats available in `golang` to capture the current server 
+In this blog post, we willl explore the different formats available in `golang` to capture the current server 
 date and time in the `default.md` file for an appropriate timestamp in any new posts created through `hugo new posts\xyz.md`.
 
 <!--more-->
