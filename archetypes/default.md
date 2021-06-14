@@ -17,4 +17,4 @@ The content for the blog post with the title &rarr; "{{ replace .Name "-" " " | 
 Cheers,\
 RM...\
 _Raghavan alias Saravanan Muthu_\
-25 May 2021 | Tue | 14 56 PM IST
+{{ now.Format "02 Jan 2006" }} | {{ now.Format "Mon" }} | {{ now.Format "15 04 05 PM IST" }}
