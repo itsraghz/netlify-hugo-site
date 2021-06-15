@@ -37,8 +37,7 @@ The links that were helpful are given below.
  * [DONE] `Read More...` text in Summary. Refer the blog post [here](/posts/test/hugo/read-more-link-in-summary/)
  * `Read More...` text with a link in the tags page as it does not appear on the posts for a tag.
  * Add Comments via *Disqus* plugin 
- * 
-
+  
 Cheers,\
 RM...\
 _Raghavan alias Saravanan Muthu_\

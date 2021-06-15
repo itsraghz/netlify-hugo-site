@@ -11,6 +11,18 @@ disqusShortname = "itsraghz"
 include_toc = false
 show_comments = true
 
+[params]
+  author = "Raghs" # You can also set author in post front matter individually
+  #subTitle = "A minimal Hugo theme."
+  defaultTheme = "dark" # default theme when first visit (auto|dark|light)
+
+  # Word counter and read time indicator in post metadata
+  showWordCounter = false
+  showReadTime = true
+
+  # Copyright
+  copyrightStartYear = "2020"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

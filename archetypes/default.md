@@ -5,6 +5,7 @@ draft: true
 tags:
   - TODO
 toc: true
+author: {{ .Site.Params.author }}
 ---
 
 # {{ replace .Name "-" " " | title }} - to be renamed accordingly

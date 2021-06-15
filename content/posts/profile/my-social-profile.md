@@ -22,6 +22,7 @@ A self reference on the social profiles and accounts of myself.
 | 6    | CodePen.io |  https://codepen.io/itsraghz |
 | 7    | YouTube    | [RaghsOnline](https://www.youtube.com/channel/UCICPGcR6T7VtNlYgsNy6mtg) |
 | 8    | YouTube    | [Raghavan M](https://www.youtube.com/channel/UC2fOs1Jy6wdLbsji7kAHYkA) |
+| 9    | Discourse - GoHugo | https://discourse.gohugo.io/u/itsraghz/summary |
 
 
 Cheers,\
