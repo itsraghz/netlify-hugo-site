@@ -34,6 +34,10 @@ The links that were helpful are given below.
  * Proper domain set up - may be a subdomain of *blog* as [http://blog.raghsonline.com](http://blog.raghsonline.com) OR [http://raghsonline.com/blog](http://raghsonline.com/blog)
  * Migration of old blog posts from different sources :) 
  * Few other security measures if any.
+ * [DONE] `Read More...` text in Summary. Refer the blog post [here](/posts/test/hugo/read-more-link-in-summary/)
+ * `Read More...` text with a link in the tags page as it does not appear on the posts for a tag.
+ * Add Comments via *Disqus* plugin 
+ * 
 
 Cheers,\
 RM...\
