@@ -12,6 +12,8 @@ author: Raghs
 
 The content for the blog post with the title &rarr; "Things to Do" will go here.
 
+<!--more-->
+
 * Personal Portfolio - Home Page - Reference https://dsrkafuu.su/
 * Author Info - suitable icon to be displayed
 * Disqus - plugin to be enabled for the comments section

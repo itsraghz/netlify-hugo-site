@@ -1,9 +1,31 @@
 <span><i class="iconfont icon-today-sharp"></i>&nbsp;{{ .Date.Format "2006-01-02" }}</span>
 {{ if ne .Date.YearDay .Lastmod.YearDay }}<span><i class="iconfont icon-sync-circle-sharp"></i>&nbsp;{{ dateFormat ( or $.Site.Params.dateFormat "2006-01-02" ) $.Page.Params.LastMod }}</span>{{ end }}
+{{ if .Site.Params.author }}<span><li>{{with .Params.author}} {{.}} {{end}}</li></span>{{ end }}
+<!-- 
+    {{ if .Site.Params.author }}<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;{{with .Params.author}} {{.}} {{end}}</span>{{ end }}
+-->
 {{ if .Site.Params.showWordCounter }}<span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;{{ i18n "postMetaWordCount" .WordCount}}</span>{{ end }}
 {{ if .Site.Params.showReadTime }}<span><i class="iconfont icon-time-sharp"></i>&nbsp;{{ i18n "postMetaReadingTime" .ReadingTime }}</span>{{ end }}
-<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;{{ if .Params.tags }}{{ range .Params.tags }}<a href="{{ "/tags/" | relURL }}{{ . | urlize}}">{{ . }}</a>&nbsp;{{ end }}{{ else }}{{ i18n "postMetaNoTag" }}{{ end }}</span>
-{{ if .Site.Params.author }}<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;{{with .Params.author}} {{.}} {{end}}</span>{{ end }}
+<!--<span>
+    <i class="iconfont icon-pricetags-sharp"></i>&nbsp;
+    {{ if .Params.tags }}
+        {{ range .Params.tags }}<a href="{{ "/tags/" | relURL }}{{ . | urlize}}">{{ . }}</a>&nbsp;{{ end }}
+    {{ else }}
+        {{ i18n "postMetaNoTag" }}
+    {{ end }}
+</span>
+-->
+{{ if .Params.tags }}
+    <span>
+        <i class="iconfont icon-pricetags-sharp"></i>&nbsp;
+        <em>
+            {{ range $i, $t := .Params.tags }}
+                {{ if $i }}, {{ end }}
+                <a href="{{ relLangURL ( printf "tags/%s" ( $t | urlize ) ) }}">{{ $t}}</a>
+            {{ end }}
+        </em>
+    </span>
+{{ end }}
 <!--<span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;{{with .Params.author}} {{.}} {{end}}</span>
 <span><i class="fab fa-github"></i>&nbsp;GitHub</span>
 <span><i class="fas fa-user-tag"></i>&nbsp;{{with .Params.author}} {{.}} {{end}}</span>-->
