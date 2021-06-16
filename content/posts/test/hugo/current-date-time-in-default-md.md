@@ -4,6 +4,7 @@ date: 2021-06-14T12:52:12+05:30
 draft: false
 tags: ["Test", "Hugo"]
 toc: true
+author: Raghs
 ---
 
 # Current Date Time in the `default.md` file

@@ -3,9 +3,10 @@ title: "Setup Hugo in Live Server"
 date: 2021-05-25T14:55:27+05:30
 draft: false
 tags:
-  - technical
-  - hugo
+  - Technical
+  - Hugo
 toc: false
+author: Raghs
 ---
 
 This post is a self remainder to help with the step by step execution of making a

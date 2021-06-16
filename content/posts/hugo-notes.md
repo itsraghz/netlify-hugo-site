@@ -7,6 +7,7 @@ tags:
   - Hugo
 toc: true
 weight: 2
+author: Raghs
 ---
 
 This post will contain the essentials of [_Hugo_](https://gohugo.io/) - Static Site Generator and the associated

@@ -4,6 +4,7 @@ date: 2021-06-09T22:32:44+05:30
 draft: false
 tags: ["Technical", "WLS", "Ubuntu", "Troubleshooting"]
 toc: true
+author: Raghs
 ---
 
 This blog post explains the steps needed to reset the `sudo` password for the `Ubuntu 20.04 LTS` version 

@@ -4,7 +4,9 @@ date: 2021-05-25T15:37:58+05:30
 draft: false
 tags:
   - TODO
+  - Test
 toc: false
+author: Raghs
 ---
 
 # Test Archetype Settings - to be renamed accordingly

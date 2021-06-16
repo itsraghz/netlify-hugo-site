@@ -4,6 +4,7 @@ date: 2021-06-13T14:16:51+05:30
 draft: false
 tags: ["Database", "MySQL"]
 toc: true
+author: Raghs
 ---
 
 # How to get the Current Server Time in MySQL

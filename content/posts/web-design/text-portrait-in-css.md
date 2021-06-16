@@ -4,6 +4,7 @@ date: 2021-06-12T12:01:52+05:30
 draft: false
 tags: ["Web Design", "Portfolio"]
 toc: true
+author: Raghs
 ---
 
 # Text Portrait in CSS

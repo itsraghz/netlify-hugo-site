@@ -5,6 +5,7 @@ draft: false
 tags: ["live", "first", "deployment", "Technical", "Hugo", "TODO"]
 toc: false
 weight: 1
+author: Raghs
 ---
 
 # Made my website up and running with Hugo blog
