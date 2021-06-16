@@ -39,6 +39,11 @@ The layout for the tags should be modified appropriately in the `<YOUR_SITE>\lay
     </span>
 {{ end }}
 ```
+## Screenshot
+
+The changes look like the below. 
+
+<img src="https://raghsonline.com/hugo-site-related/csv-tags.JPG" alt="CSV Tags- 16Jun2021"/>
 
 ## References 
 
