@@ -9,9 +9,9 @@ toc: true
 # Read More Conditional in Summary
 
 The `Read More...` link gets conditionally displayed in the `<YOUR_SITE>\layouts\default\list.html` file with a 
-*conditional* clause. Also the {{ </* !--more-- /*> }} in each specific blog post contributes additionally to render the `Read More` text. 
+*conditional* clause. Also the &lt;!&#45;&#45;more&#45;&#45;> in each specific blog post contributes additionally to render the `Read More` text. 
 
-This blog post intentionally gets ended here without any *{{ htmlEscape "<" }}!--more--{{ htmlEscape "<" }}* to demonstrate the same. 
+This blog post intentionally gets ended here without any &lt;!&#45;&#45;more&#45;&#45;> to demonstrate the same. 
 
 
 Cheers,\

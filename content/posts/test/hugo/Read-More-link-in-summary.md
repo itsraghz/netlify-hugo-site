@@ -41,6 +41,8 @@ keyword that supplements the conditional rendering of the `Read More...` text in
 
 It is the `<!--more-->` clause that gives a hint that the post has some more text to be displayed further.
 
+> Note: As part of the markdown when it gets broken, we can use the HTML escaped characters as `&lt;!&#45;&#45;more&#45;&#45;>`.
+
 ## Finished up code - in the relevant section
 
 The content of the `<YOUR_SITE>\layouts\default\list.html` file looks like below. 
@@ -60,10 +62,17 @@ The result - as on date - is given below.
 
 <img src="https://raghsonline.com/hugo-site-related/read-more-link/ReadMoreLink-15Jun2021.JPG" alt="Read More Link - Image - 15Jun2021"/>
 
+*Update* 
+
+The broken link is rectified via *escaping*. The reference URL for the fix is added in the `References` section below.
+
+<img src="https://raghsonline.com/hugo-site-related/read-more-link/ReadMoreLink-Rectified-16Jun2021.JPG" alt="Read More Link - Rectified - 16Jun2021"/>
+
 ## References 
 
 * My own post in [GoHugo Support Forum](https://discourse.gohugo.io/t/fuji2-theme-how-to-add-read-more/33367)
 * How to avoid the `Read More...` in Hugo Summary &rarr; [Avoid the Read More link in Summary](/posts/test/hugo/read-more-link-avoided-in-summary/)
+* My own post in [GoHugo Support Forum](https://discourse.gohugo.io/t/hugo-how-to-escape-the-html-characters-for-the-shortquote-like-more/33387/2?u=itsraghz)
   
 > Have a look at [this layout](https://github.com/funkydan2/hugo-kiera/blob/master/layouts/index.html) - especially line 15.
 
