@@ -2,8 +2,8 @@
 title: "My First Post"
 date: 2021-05-25T08:44:39+05:30
 tags:
-  - personal
-  - first
+  - Personal
+  - First
 draft: false
 author: Raghs
 ---

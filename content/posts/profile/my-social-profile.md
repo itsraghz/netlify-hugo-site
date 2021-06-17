@@ -2,7 +2,7 @@
 title: "My Social Profile"
 date: 2021-06-12T12:30:55+05:30
 draft: false
-tags: ["profile"]
+tags: ["Portfolio"]
 toc: true
 ---
 
@@ -18,7 +18,7 @@ A self reference on the social profiles and accounts of myself.
 | 2    | LinkedIn |  https://www.linkedin.com/in/itsraghz/     |
 | 3    | Twitter  |  https://twitter.com/itsraghz      | 
 | 4    | StackOverflow |  https://stackoverflow.com/users/1001242/  |
-| 5    | GitHub |    https://github.com/itsraghz | 
+| 5    | GitHub |    https://github.com/itsraghz , [GitHub Profile Pic](https://avatars.githubusercontent.com/u/1222999)| 
 | 6    | CodePen.io |  https://codepen.io/itsraghz |
 | 7    | YouTube    | [RaghsOnline](https://www.youtube.com/channel/UCICPGcR6T7VtNlYgsNy6mtg) |
 | 8    | YouTube    | [Raghavan M](https://www.youtube.com/channel/UC2fOs1Jy6wdLbsji7kAHYkA) |
