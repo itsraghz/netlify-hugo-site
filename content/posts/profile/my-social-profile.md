@@ -2,7 +2,7 @@
 title: "My Social Profile"
 date: 2021-06-12T12:30:55+05:30
 draft: false
-tags: ["Portfolio"]
+tags: ["Portfolio", "Personal"]
 toc: true
 ---
 

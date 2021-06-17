@@ -2,7 +2,7 @@
 title: "Text Portrait in CSS"
 date: 2021-06-12T12:01:52+05:30
 draft: false
-tags: ["Web Design", "Portfolio"]
+tags: ["Web Design", "Portfolio", "Personal"]
 toc: true
 author: Raghs
 ---
