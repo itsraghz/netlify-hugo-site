@@ -18,4 +18,4 @@ The content for the blog post with the title &rarr; "{{ replace .Name "-" " " | 
 Cheers,\
 RM...\
 _Raghavan alias Saravanan Muthu_\
-{{ now.Format "02 Jan 2006" }} | {{ now.Format "Mon" }} | {{ now.Format "15 04 05 PM IST" }}
+{{ now.Format "02 Jan 2006" }} | {{ now.Format "Mon" }} | {{ now.Format "15:04:05 PM IST" }}
