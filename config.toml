@@ -7,10 +7,6 @@ theme = "fuji"
 #theme = "cupper-hugo-theme"
 #theme = "hugo-coder"
 
-disqusShortname = "itsraghz"
-include_toc = false
-show_comments = true
-
 [params]
   author = "Raghs" # You can also set author in post front matter individually
   #subTitle = "A minimal Hugo theme."
@@ -22,6 +18,15 @@ show_comments = true
 
   # Copyright
   copyrightStartYear = "2020"
+
+  include_toc = false
+  show_comments = true
+
+  disqusShortname = "raghsonline"
+  # If you want to use DisqusJS, please remember to set disqusJSApi to anything in your config.toml to load CSS.
+  # disqusJSApi = "itsraghz" 
+  disqus_identifier = "itsraghz"  
+  
 
 [markup]
   [markup.goldmark]
