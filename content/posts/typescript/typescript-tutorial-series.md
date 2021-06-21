@@ -21,7 +21,9 @@ This is an index / TOC post for the typescript tutorial series.
 | 02 | [Typescript Variables](../typescript-variables/) | Variables in Typescript | 
 | 03 | [Typescript Datatypes](../typescript-datatypes/) | Datatypes in Typescript |
 | 04 | [Typescript NoEmitOnError](../typescript-noemitonerror/) | Avoid the `.js` file generation if there are compiler errors | 
-
+| 05 | [Typescript Loops](../typescript-loops/) | Loops in Typescript |
+| 06 | [TS Simplified For Loop](../typescript-simplified-for-loop/) | Simplified `for` Loop in Typescript |
+| 07 | [TS If-Else Constructs](../typescript-if-else-constructs/) | If-Else Constructs in Typescript |
 
 Cheers,\
 RM...\

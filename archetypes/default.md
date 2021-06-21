@@ -14,6 +14,8 @@ The content for the blog post with the title &rarr; "{{ replace .Name "-" " " | 
 
 <!--more-->
 
+> This is part of the _Typescript Tutorial Series_, whose index / TOC is available here &rarr; [Typescript Tutorial Series](../typescript-tutorial-series/).
+
 
 Cheers,\
 RM...\
