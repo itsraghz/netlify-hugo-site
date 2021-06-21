@@ -24,6 +24,7 @@ This is an index / TOC post for the typescript tutorial series.
 | 05 | [Typescript Loops](../typescript-loops/) | Loops in Typescript |
 | 06 | [TS Simplified For Loop](../typescript-simplified-for-loop/) | Simplified `for` Loop in Typescript |
 | 07 | [TS If-Else Constructs](../typescript-if-else-constructs/) | If-Else Constructs in Typescript |
+| 08 | [TS Dynamic Arrays](../typescript-dynamic-arrays/) | Dynamic Arrays in Typescript |
 
 Cheers,\
 RM...\
