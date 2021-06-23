@@ -40,6 +40,11 @@ Clicking on the `window` icon, the terminal is split on the horizontal side allo
 
 <img src="http://raghsonline.com/tools/vscode/vscode-terminals-status-after-split.JPG" />
 
+*Icon Status* 
+
+* First `cmd` - Normal Terminal Window (Command Prompt)
+* Second `cmd` - split into two, where each of them are of type `Command Prompt` &rarr; `C:\>` indication
+
 This is certainly a productivity booster I would say!
 
 Try this and enjoy. 
