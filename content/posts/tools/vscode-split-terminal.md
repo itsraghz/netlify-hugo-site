@@ -34,7 +34,7 @@ Clicking on the `window` icon, the terminal is split on the horizontal side allo
 
 *Image* - The `split terminal` menu item 
 
-<img src="http://raghsonline.com/tools/vscode/vscode-iplt-terminal-menu-item.JPG" />
+<img src="http://raghsonline.com/tools/vscode/vscode-split-terminal-menu-item.JPG" />
 
 *Image* - The icons of terminals after split
 
