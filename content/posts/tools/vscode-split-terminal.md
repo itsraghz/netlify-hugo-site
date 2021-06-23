@@ -17,7 +17,7 @@ author: Raghs
 
 VS Code has got two icons on the Terminal window. On the top right, we get a "+" icon to add a new terminal, and depends on the folders added in the workspace it will ask you to choose a folder in which the terminal to be opened - yet another cool feature :) yeay! :)
 
-<img src="http://raghsonline.com/tools/vscode/vscode-new-terminal-folder-selection.JPG" />
+<img src="https://raghsonline.com/tools/vscode/vscode-new-terminal-folder-selection.JPG" />
 
 # Split Option in the existing terminal 
 
@@ -30,15 +30,15 @@ Clicking on the `window` icon, the terminal is split on the horizontal side allo
 
 *Image* - The `+` icon 
 
-<img src="http://raghsonline.com/tools/vscode/vscode-plus-icon-terminal.JPG" />
+<img src="https://raghsonline.com/tools/vscode/vscode-plus-icon-terminal.JPG" />
 
 *Image* - The `split terminal` menu item 
 
-<img src="http://raghsonline.com/tools/vscode/vscode-split-terminal-menu-item.JPG" />
+<img src="https://raghsonline.com/tools/vscode/vscode-split-terminal-menu-item.JPG" />
 
 *Image* - The icons of terminals after split
 
-<img src="http://raghsonline.com/tools/vscode/vscode-terminals-status-after-split.JPG" />
+<img src="https://raghsonline.com/tools/vscode/vscode-terminals-status-after-split.JPG" />
 
 *Icon Status* 
 
@@ -55,7 +55,7 @@ I use this for the static site generator `Hugo` where one window is used for cre
 
 *Image* : The `split terminal` in effect 
 
-<img src="http://raghsonline.com/tools/vscode/vscode-split-terminal-22Jun2021.JPG"/>
+<img src="https://raghsonline.com/tools/vscode/vscode-split-terminal-22Jun2021.JPG"/>
 
 > Note: Of course, you can open as many windows as you want by clicking on the `window` icon. But I don't see any practical reasons to open more than 3 terminals at a time!
 
