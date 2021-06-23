@@ -18,13 +18,14 @@ This is an index / TOC post for the typescript tutorial series.
 | Sl # | Title | Remarks |
 | ---- | ----- | ------- |
 | 01 | [Typescript Basics](../typescript-basics/) | Quick Intro to Typescript  |
-| 02 | [Typescript Variables](../typescript-variables/) | Variables in Typescript | 
-| 03 | [Typescript Datatypes](../typescript-datatypes/) | Datatypes in Typescript |
-| 04 | [Typescript NoEmitOnError](../typescript-noemitonerror/) | Avoid the `.js` file generation if there are compiler errors | 
-| 05 | [Typescript Loops](../typescript-loops/) | Loops in Typescript |
-| 06 | [TS Simplified For Loop](../typescript-simplified-for-loop/) | Simplified `for` Loop in Typescript |
-| 07 | [TS If-Else Constructs](../typescript-if-else-constructs/) | If-Else Constructs in Typescript |
-| 08 | [TS Dynamic Arrays](../typescript-dynamic-arrays/) | Dynamic Arrays in Typescript |
+| 02 | [Typescript Version](../typescript-version/) | Version Info of Typescript |
+| 03 | [Typescript Variables](../typescript-variables/) | Variables in Typescript | 
+| 04 | [Typescript Datatypes](../typescript-datatypes/) | Datatypes in Typescript |
+| 05 | [Typescript NoEmitOnError](../typescript-noemitonerror/) | Avoid the `.js` file generation if there are compiler errors | 
+| 06 | [Typescript Loops](../typescript-loops/) | Loops in Typescript |
+| 07 | [TS Simplified For Loop](../typescript-simplified-for-loop/) | Simplified `for` Loop in Typescript |
+| 08 | [TS If-Else Constructs](../typescript-if-else-constructs/) | If-Else Constructs in Typescript |
+| 09 | [TS Dynamic Arrays](../typescript-dynamic-arrays/) | Dynamic Arrays in Typescript |
 
 Cheers,\
 RM...\
