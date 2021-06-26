@@ -32,6 +32,8 @@ In this blog post, we will see how to add the status badge of the latest *Netlif
 
 <img src="https://raghsonline.com/hugo-site-related/netlify/netlify-deployment-badge-buildling.JPG" alt="Changes are being built - Building" />
 
+<img src="https://raghsonline.com/hugo-site-related/netlify/netlify-deployment-status-starting-up.JPG" alt="Deployment is starting up - Starting Up" />
+
 ## Completed - `Success`
 
 <img src="https://raghsonline.com/hugo-site-related/netlify/netlify-deployment-badge-success.JPG" alt="Changes are successfully deployed - Success" />
