@@ -1,7 +1,7 @@
 ---
 title: "TypeScript clean build"
 date: 2021-06-26T22:42:09+05:30
-draft: true
+draft: false
 tags:
   - Technical
   - Typescript
@@ -58,6 +58,13 @@ The `--clean` argument can be passed only to the `tsc --build` command and not o
 ```ts
 typeScriptPractices > tsc --clean
 error TS5093: Compiler option '--clean' may only be used with '--build'.
+```
+
+Also the `--clean` argument should follow the `--build` and not the other way around.
+
+```ts
+typeScriptPractices > tsc --clean --build
+error TS6369: Option '--build' must be the first command line argument.
 ```
 
 # Difference between `tsc --build --clean` and `rm -rf *.js`
