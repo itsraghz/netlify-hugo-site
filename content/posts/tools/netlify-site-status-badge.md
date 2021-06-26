@@ -12,11 +12,11 @@ author: Raghs
 
 In this blog post, we will see how to add the status badge of the latest *Netlify* build of your site. 
 
-<!--more-->
-
 ## Badge for my website 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e18a01a4-94a8-4185-aa55-887cc1984c14/deploy-status)](https://app.netlify.com/sites/raghsonline/deploys)
+
+<!--more-->
 
 ## How to do
 
@@ -30,13 +30,31 @@ In this blog post, we will see how to add the status badge of the latest *Netlif
 
 ## Being Published - `Building`
 
+### Badge status in the Website Blog post (localhost)
+
 <img src="https://raghsonline.com/hugo-site-related/netlify/netlify-deployment-badge-buildling.JPG" alt="Changes are being built - Building" />
+
+### Badge status in the Netlify site 
 
 <img src="https://raghsonline.com/hugo-site-related/netlify/netlify-deployment-status-starting-up.JPG" alt="Deployment is starting up - Starting Up" />
 
+### Badge status in the GitHub README file 
+
+<img src="https://raghsonline.com/hugo-site-related/netlify/github-project-README-status-building.JPG" alt="GitHub README status - Building" />
+
 ## Completed - `Success`
 
+### Badge status in the Website Blog Post (localhost)
+
 <img src="https://raghsonline.com/hugo-site-related/netlify/netlify-deployment-badge-success.JPG" alt="Changes are successfully deployed - Success" />
+
+### Badge status in the Netlify site
+
+<img src="https://raghsonline.com/hugo-site-related/netlify/netlify-deployment-status-Published.JPG" alt="Netlify Site Status - Published" />
+
+### Badge status in the GitHub README file
+
+<img src="https://raghsonline.com/hugo-site-related/netlify/github-project-README-status-success.JPG" alt="GitHub README status - Success" />
 
 # References 
 
