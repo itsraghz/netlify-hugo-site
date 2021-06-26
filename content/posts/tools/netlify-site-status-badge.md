@@ -1,9 +1,11 @@
 ---
 title: "Netlify Site Status Badge"
 date: 2021-06-26T17:17:50+05:30
-draft: true
+draft: false
 tags:
-  - TODO
+  - Technical
+  - Tools
+  - Netlify
 toc: true
 author: Raghs
 ---
@@ -23,6 +25,16 @@ In this blog post, we will see how to add the status badge of the latest *Netlif
 * Click on [*Status Badges*](https://app.netlify.com/sites/raghsonline/settings/general#status-badges) section
 * Copy the snippet given below (the snippet has your App Id of your site embedded)
 * Paste it anywhere you like - `README` of your website, `header` file of the site etc., to reflect the latest build status of your site with *Netlify*
+
+## Images 
+
+## Being Published - `Building`
+
+<img src="https://raghsonline.com/hugo-site-related/netlify/netlify-deployment-badge-buildling.JPG" alt="Changes are being built - Building" />
+
+## Completed - `Success`
+
+<img src="https://raghsonline.com/hugo-site-related/netlify/netlify-deployment-badge-success.JPG" alt="Changes are successfully deployed - Success" />
 
 # References 
 
