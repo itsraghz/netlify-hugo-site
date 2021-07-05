@@ -11,7 +11,7 @@ author: Raghs
 
 # உளுந்தின் நன்மைகள்
 
-We will see the beneifits of eating Urad Dal in the day to day life in this blog post.  It is in Tamil. 
+We will see the benefits of eating Urad Dal in the day to day life in this blog post.  It is in Tamil. 
 
 <!--more-->
 
