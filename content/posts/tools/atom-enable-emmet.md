@@ -18,22 +18,21 @@ In this blog post, we will see how to enable the *Emmet* Plugin to generate the 
 The *Emmet* Plugin is very famous and useful tool that is pluggable with most of the text editors and IDEs for the snippet generation, like the barebone boilerplate code for *HTML*, and other Programming Langauges like *Java* etc., where you need 
 some basic code to start with and you would not feel like typing everything from the scratch adds fun after sometime :) 
 
-
 # Install in Atom.io 
 
 Installing a plugin is very easy in the Atom editor, as you can follow any of the following two.
 
 1. Search for a package inside the Atom Editor itself. `Settings` &rarr; `Package`. 
    
-  <img src="https://raghsonline.com/atom.io-package-settings.JPG" alt="Atom.io Editor Package Settings"/>
+  <img src="https://raghsonline.com/tools/atom/atom.io-package-settings.JPG" alt="Atom.io Editor Package Settings"/>
 
 2. Use `Ctrl + Shift + P` to invoke the *Install Package* option inside the Atom.io editor. 
 
-  <img src="https://raghsonline.com/atom.io-ctrl_shift_p-search-pkg.JPG" alt="Atom.io Editor Install Package using Ctrl+Shift+P"/>
+  <img src="https://raghsonline.com/tools/atom/atom.io-ctrl_shift_p-search-pkg.JPG" alt="Atom.io Editor Install Package using Ctrl+Shift+P"/>
 
    It takes you to the same `Settings` &rarr; `Package` screen. You can search for a particular package and click on `Install`. 
  
-<img src="https://raghsonline.com/atom.io-Install-Pacakges.JPG" alt="Install Packages" />
+<img src="https://raghsonline.com/tools/atom/atom.io-Install-Pacakges.JPG" alt="Install Packages" />
 
 *Note*: 
 
