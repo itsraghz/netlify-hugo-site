@@ -53,7 +53,7 @@ Even afterwards if it still does not work, you must not have chosen/specified th
 
  You see that a green color arrow mark enabled on the `html` line you typed, and you see the syntax enabled - all in caps with the right hand side -`HTML` in the screenshot. Press `Enter` key there and you get the full HTML5 skeleton in a fraction of a second :) 
 
- <img src="http://raghsonline.com/atom.io-html-file-boilerplate-generated.JPG/">
+ <img src="http://raghsonline.com/tools/atom/atom.io-html-file-boilerplate-generated.JPG/">
 
 # References 
 
