@@ -8,6 +8,7 @@ tags:
   - Netlify
 toc: true
 author: Raghs
+weight: 1
 ---
 
 In this blog post, we will see how to add the status badge of the latest *Netlify* build of your site. 
