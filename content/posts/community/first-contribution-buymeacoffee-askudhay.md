@@ -19,7 +19,7 @@ Feeling very happy because of two reasons.
 
 # Further Steps 
 
-Should you wish to help my friend, please consider making your best contribution by visiting this link [buymeacoffee.com](https://www.buymeacoffee.com/askudhay)
+Should you wish to help my friend, please consider making your best contribution by visiting this link [https://buymeacoffee.com/askudhay](https://www.buymeacoffee.com/askudhay)
 
 
 # Snapshot for my contribution 
