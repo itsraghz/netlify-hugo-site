@@ -19,7 +19,11 @@ Feeling very happy because of two reasons.
 
 # Further Steps 
 
-Should you wish to help my friend, please consider making your best contribution by visiting this link [https://buymeacoffee.com/askudhay](https://www.buymeacoffee.com/askudhay)
+> He still has a long way to go, as so far ONLY *21% of 120 USD* has been raised. 
+
+<img src="http://raghsonline.com/community/askudhay-buymeacoffee-statistics-22Jul2021.JPG" alt="Statistics - as of 22Jul2021"/>
+
+Should you wish to help my friend, please consider making your best contribution by visiting this link [https://buymeacoffee.com/askudhay](https://www.buymeacoffee.com/askudhay). 
 
 
 # Snapshot for my contribution 
