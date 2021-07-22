@@ -8,7 +8,7 @@ toc: true
 author: Raghs
 ---
 
-I just made my first contribution to the Open Source Community - *AngularHive* run by my good friend *UdhayaKumar Govindarajan* via who ran a fundraising campaign for running the Angular Meetups via meetup.com website. 
+I just made my first contribution to the Open Source Community - *AngularHive* run by my good friend *UdhayaKumar Govindarajan* via who is running a fundraising campaign for running the Angular Meetups via [meetup.com](https://www.meetup.com/angular-hive/) website. 
 
 <!--more-->
 
