@@ -17,9 +17,19 @@ In this blog post, we will see how to connect to the MongoDB cluster via `mongos
 
 # Prerequisites 
 
+* MongoDB Atlas Cluster Account
+* MongoShell OR MongoDB Server
+* Tools like `vscode`
+
 # Connection Parameters
 
 # Connection via `mongoshell`
+
+# User for a temporary period 
+
+You can create a *Temporary* Database user to connect to your MongoDB cluster for a certain period of time. 
+
+I had yesterday reset the password for the username - *default* : _student-m001_ (`student-<clusterName>)`. 
 
 ## Output 
 
@@ -113,7 +123,14 @@ MongoDB Enterprise RaghsCluster-shard-0:PRIMARY>
 # Connection via `vscode`
 
 
+## References
 
+* https://account.mongodb.com/account/login
+* https://docs.mongodb.com/mongodb-vscode/playgrounds/
+* https://docs.mongodb.com/mongodb-vscode/
+* https://docs.mongodb.com/mongodb-vscode/connect/#std-label-vsce-connect
+* https://docs.atlas.mongodb.com/monitor-cluster-metrics/
+* 
 
 Cheers,\
 RM...\
