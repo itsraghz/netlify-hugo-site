@@ -24,6 +24,8 @@ After a long thought and going through the reviews, I have carefully decided to 
 
  Stay tuned :) 
 
+> And, If you are in the same track, *what are you waiting for?* Hurry up! The offer ends in another 6 days.
+
 Cheers,\
 RM...\
 _Raghavan alias Saravanan Muthu_\
