@@ -18,7 +18,7 @@ author: Raghs
 
 <!--more-->
 
-<img src="http://raghsonline.com/spiritual/BeautifulGanesha.jpg"/>
+<img src="https://raghsonline.com/spiritual/BeautifulGanesha.jpg"/>
 
 ஆத்தங்கரை என்றால்
 இந்த பிள்ளையுண்டு !
