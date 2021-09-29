@@ -17,7 +17,7 @@ author: Raghs
 
 ## திருவுருவம் 
 
-<img src="http://raghsonline.com/spiritual/ManakkulaVinayagar.jpeg"/>
+<img src="https://raghsonline.com/spiritual/ManakkulaVinayagar.jpeg"/>
 
 ## தலப்பெருமை
 
