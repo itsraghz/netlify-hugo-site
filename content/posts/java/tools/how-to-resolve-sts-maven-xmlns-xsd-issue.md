@@ -47,7 +47,7 @@ Artifact | Details |
 
 ### Screenshot 
 
-<img scr="https://raghsonline.com/tools/sts/maven-xmlns-xsd-issue/01_error.JPG" alt="Maven XMLNL XSD Issue in STS IDE"/>
+<img src="https://raghsonline.com/tools/sts/maven-xmlns-xsd-issue/01_error.JPG" alt="Maven XMLNL XSD Issue in STS IDE"/>
 
 ## Fix 
 
@@ -71,7 +71,7 @@ Basically the `xmlns` attribute has two values within a double quote, and both o
 
 ### Screenshot 
 
-<img scr="https://raghsonline.com/tools/sts/maven-xmlns-xsd-issue/02_fixed.JPG" alt="Maven XMLNL XSD Issue Fixed in STS IDE"/>
+<img src="https://raghsonline.com/tools/sts/maven-xmlns-xsd-issue/02_fixed.JPG" alt="Maven XMLNL XSD Issue Fixed in STS IDE"/>
 
 Cheers,\
 RM...\
