@@ -45,6 +45,9 @@ Artifact | Details |
 | --- | ---- | --- | --- | --- |
 |There is '1' error in 'maven-4.0.0.xsd'.	| pom.xml	| /SpringFirstApp | line 4	| Language Servers |
 
+### Screenshot 
+
+<img scr="https://raghsonline.com/tools/sts/maven-xmlns-xsd-issue/01_error.JPG" alt="Maven XMLNL XSD Issue in STS IDE"/>
 
 ## Fix 
 
@@ -65,6 +68,10 @@ Basically the `xmlns` attribute has two values within a double quote, and both o
 ```
 
 > If you observed carefully, the change was on the line 4 where the `schemaLocation` attribute has now got the `https` for the `xsi:schemaLocation="http://maven.apache.org/POM/4.0.0` instead of the `http` as earlier, and thus in sync with the other value in teh same attribute `https://maven.apache.org/xsd/maven-4.0.0.xsd`
+
+### Screenshot 
+
+<img scr="https://raghsonline.com/tools/sts/maven-xmlns-xsd-issue/02_fixed.JPG" alt="Maven XMLNL XSD Issue Fixed in STS IDE"/>
 
 Cheers,\
 RM...\
