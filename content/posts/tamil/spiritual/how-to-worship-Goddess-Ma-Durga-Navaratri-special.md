@@ -1,5 +1,5 @@
 ---
-title: "How to Worship Goddess Ma Durga"
+title: "How to Worship Goddess Ma Durga During Navarati"
 date: 2021-10-05T21:17:44+05:30
 draft: false
 tags:
