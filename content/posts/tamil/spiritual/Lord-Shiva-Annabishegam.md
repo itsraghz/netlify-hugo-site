@@ -1,7 +1,7 @@
 ---
 title: "Lord Shiva Annabishegam"
 date: 2021-10-21T19:44:54+05:30
-draft: true
+draft: false
 tags:
   - Tamil
   - Spiritual
