@@ -19,7 +19,7 @@ author: Raghs
 
 ## Image 
 
-<img src=https://raghsonline.com/spiritual/LordShivaAnnabhishegam.jpg" alt="Lord Shiva Annabhishegam"/>
+<img src="https://raghsonline.com/spiritual/LordShivaAnnabhishegam.JPG" alt="Lord Shiva Annabhishegam"/>
 
 
 Cheers,\
