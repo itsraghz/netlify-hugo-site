@@ -19,11 +19,11 @@ In this blog post, we will see how can we work with the *variables* in Typescrip
 
 We use the `let` keyword to define a variable in *Typescript*. As indicated the value of the variable is NOT fixed (hence the name) and can be changed at any point in time. 
 
-The fundamental difference between the Typescript its predecessor *Javascript* is, Typescript has a strict type checking to ensure there are no gaps on the potential values that can be assigned to variable of a type. For example, we can't assign a character/alphabet value to a variable which accepts/expects a numerical data - example `age`. 
+The fundamental difference between the Typescript, and its predecessor *Javascript* is, Typescript has a strict type checking to ensure there are no gaps on the potential values that can be assigned to variable of a type. For example, we can't assign a character/alphabet value to a variable which accepts/expects a numerical data - example `age`. 
 
 ## Advantage of type checking 
 
-If such kind of data type mismatch errros are not caught earlier (during the compilation time), they may blow up during the execution of the source code in the runtime, which is certainly recommended as it will disappoint the actual users of the application. 
+If such kind of data type mismatch errros are not caught earlier (during the compilation time), they may blow up during the execution of the source code in the runtime, which is certainly *NOT* recommended, as it will disappoint the actual users of the application. 
 
 Hence, this static type checking is much preferred and worth in languages like *Typescript* which is not the case with *Javascript*, where the users are expected to be diligent enough at all the times. 
 
@@ -43,7 +43,7 @@ where
  * `initialValue` is the potentially allowed values according to the `datatype`
  * `;` is a line terminator
 
-> The Typescritp datatypes are discussed in this post &rarr; [Typescript Datatypes](../typescript-datatypes/)
+> The Typescript datatypes are discussed in this post &rarr; [Typescript Datatypes](../typescript-datatypes/)
 
 ## Example 1 - Proper data assignment 
 
@@ -53,7 +53,7 @@ let age : number = 21;
 console.log(age);
 ```
 
-The above program is legally valid as it follows the norms, by assiging a numeric data to the variable `age` whose type is defined as `number`. 
+The above program is legally valid as it follows the norms, by assigning a numeric data to the variable `age` whose type is defined as `number`. 
 
 ## Example 2 - Invalid data assignment 
 

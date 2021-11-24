@@ -27,7 +27,7 @@ In the above snippet, the `executable statement` gets executed, *ONLY* if the `e
 
 # If-Else construct 
 
-An `else` clause is used to provide an alternate to the `if` statement, when the condition is *not* evaluates to `true`. 
+An `else` clause is used to provide an alternate to the `if` statement, when the condition is *not* evaluated to `true`. 
 
 ```ts
 if(`<expression>`) {
@@ -100,7 +100,7 @@ let myAge : number = 39;
 if( myAge > 40 ) {
     console.log("Welcome Adult");
 } else {
-    console.log("Welcome Younster");
+    console.log("Welcome Youngster");
 }
 
 console.log("Your age is : " + myAge);
@@ -124,7 +124,7 @@ typescriptPractices >
 
 ```ts
 typescriptPractices > node if-else.js
-Welcome Younster
+Welcome Youngster
 Your age is : 39
 ```
 

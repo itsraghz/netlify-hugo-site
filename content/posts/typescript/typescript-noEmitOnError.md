@@ -37,7 +37,7 @@ Found 1 error.
 typescriptPractices >
 ```
 
-> Note: For certain valid and legitimate reasons, you can use the different datatye `any` instead of `boolean` to avoid the compiler error. 
+> Note: For certain valid and legitimate reasons, you can use the different datatype `any` instead of `boolean` to avoid the compiler error. 
 > 
 > However it is *_not_* generally recommended, until and otherwise you have a very strong reason, since it will defeat the purpose of Tyepscript due to the fact the `any` type will NOT perform the *type checking*.
 

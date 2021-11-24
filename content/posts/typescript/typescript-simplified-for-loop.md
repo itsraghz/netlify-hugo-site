@@ -39,7 +39,7 @@ for (let mark of marks) {
 
 The above example uses the simplified for loop to print the elements in the `marks` array, one at a time using the loop variable `mark` which is *of* the same type as that of the array variable `marks`. 
 
-> `Of` is a keyword that connects the *loop counter variable* with the *array* variable.
+> `of` is a keyword that connects the *loop counter variable* with the *array* variable.
 
 ## Example 
 
