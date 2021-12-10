@@ -28,7 +28,7 @@ It highlights the used values in Red color, and the unused ones with the white c
 
 # Screenshot
 
-<img src="http://raghsonline.com/tools/intellij-idea/IntellijIDEA Tips - Highlighting the Unused Enum Values in a loop.png"/>
+<img src="http://raghsonline.com/tools/intellij-idea/IntellijIDEA_Tips-Highlighting_the_Unused_Enum_Values.png"/>
 
 
 Cheers,\
