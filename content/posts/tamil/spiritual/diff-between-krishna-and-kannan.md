@@ -20,12 +20,12 @@ author: Raghs
 
 <!--more-->
 
-கண்ணன் என்பது செல்ல பெயர்.\
+கண்ணன் என்பது செல்லப் பெயர்.\
 குழந்தைப் பருவம்.\
 கிருஷ்ணன் என்பது வளர்ந்த பிள்ளை.\
-இரண்டிற்கும் , வயதுதானே வித்தியாசம்!
+இரண்டிற்கும் வயது தானே வித்தியாசம்!
 
-<img src="https://raghsonline.com/spiritual/BeautifulChildKrishnaSleeping.png"/>
+<img src="https://raghsonline.com/spiritual/BeautifulChildKrishnaSleeping.jpg"/>
 
 சின்ன உதாரணம்...\
 ஒருநாள் நான் ...\
