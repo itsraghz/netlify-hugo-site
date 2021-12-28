@@ -1,7 +1,7 @@
 ---
 title: "Azhagar Kovil Samba Dosai for Resolving Disputes"
 date: 2021-12-28T18:05:12+05:30
-draft: true
+draft: false
 tags:
   - Tamil
   - Spiritual

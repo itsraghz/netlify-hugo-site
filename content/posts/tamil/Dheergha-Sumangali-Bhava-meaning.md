@@ -1,7 +1,7 @@
 ---
 title: "Dheergha Sumangali Bhavaa Meaning"
 date: 2021-12-28T19:02:36+05:30
-draft: true
+draft: false
 tags:
   - Tamil
 toc: true
