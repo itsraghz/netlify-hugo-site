@@ -11,16 +11,18 @@ author: Raghs
 
 # Few Tamil Words for Techical Terms
 
-*Cloud Computing = கொளுவுக் கணிமை
-*Folder= அடைவு
-*File= கோப்பு
-*Domain= திரளம்
+* Cloud Computing = கொளுவுக் கணிமை
+* Folder= அடைவு
+* File= கோப்பு
+* Domain= திரளம்
 
-*Cookie= நினைவி
-*Icon= படவுரு
-*Emoticon= உணர்வுரு
-*Screen Reader= திரைநவிலி
-*Screenshot = திரைச்சொட்டு
+<!--more-->
+
+* Cookie= நினைவி
+* Icon= படவுரு
+* Emoticon= உணர்வுரு
+* Screen Reader= திரைநவிலி
+* Screenshot = திரைச்சொட்டு
 
 Cheers,\
 RM...\
