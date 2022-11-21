@@ -21,7 +21,7 @@ The below script will help you rename all the files with an extension `.jpeg` to
 
 ## Bash Script 
 
-```sh
+```bash
 #!/bin/bash
 
 for file in *.jpeg; do
@@ -35,7 +35,7 @@ It is a simple for loop that is self explanatory - where it picks up all the fil
 
 Verify the file extensions before executing the Bash script. 
 
-```sh
+```bash
 RAGHS_BASH: ls
  00.jpeg   05.jpeg   10.jpeg   15.jpeg                   20_Receipt.jpeg
  01.jpeg   06.jpeg   11.jpeg   16.jpeg                   21.jpeg
@@ -47,7 +47,7 @@ RAGHS_BASH:
 
 Now verify the file contents once. 
 
-```sh
+```bash
 RAGHS_BASH : bat changeExtn.sh
 ───────┬────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
        │ File: changeExtn.sh
@@ -62,7 +62,7 @@ RAGHS_BASH : bat changeExtn.sh
 ```
 Execute the script and verify the file contents. 
 
-```sh
+```bash
 RAGHS_BASH : ./changeExtn.sh
 RAGHS_BASH : ls
  00.jpg   05.jpg   10.jpg   15.jpg                   20_Receipt.jpg
