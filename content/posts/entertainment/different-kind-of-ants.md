@@ -1,5 +1,5 @@
 ---
-title: "Differnent Kind of Ants"
+title: "Different Kind of Ants"
 date: 2023-01-04T09:57:26+05:30
 draft: false
 tags:
@@ -8,7 +8,7 @@ toc: true
 author: Raghs
 ---
 
-# Differnent Kind of Ants
+# Different Kind of Ants
 
 Let's laugh away our stress with ants.
 
