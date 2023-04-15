@@ -4,7 +4,7 @@ date: 2023-04-15T14:41:22+05:30
 draft: false
 tags:
   - Tamil
-  - Spirtual
+  - Spiritual
 toc: true
 author: Raghs
 ---
