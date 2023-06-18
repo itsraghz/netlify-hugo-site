@@ -66,6 +66,8 @@ defaultbrowser firefox
 
 *DesktopBrowser Utility - Command with Argument*
 
+I made a custom shell script with a meaningful name to keep the arguments saved.
+
 <img src="https://raghsonline.com/technical/macosx-default-browser/03_AppleMacOSX-DefaultBrowser-Switch.png" alt="Apple Mac OS X -Default Browser - Switch">
 
 A very nice thing is that it prompts the user to confirm the switch of the default browser, and it will get a quick confimation on the dialog box. 
