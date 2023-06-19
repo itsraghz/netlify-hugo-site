@@ -22,11 +22,11 @@ I knew that the switching of the default browser is typically a manual work, whe
 
 We get the default browser what is set.
 
-<img src="https://raghsonline.com/technical/macosx-default-browser/01_AppleMacOSX-DesktopBrowserSettings.png" alt="Apple Mac OS X - Desktop Browser Settings.png">
+<img src="https://raghsonline.com/technical/macosx-default-browser/01_AppleMacOSX-DesktopBrowserSettings.png" alt="Apple Mac OS X - Desktop Browser Settings">
 
 *Mac OS X - Settings Window - List of Browsers*
 
-<img src="https://raghsonline.com/technical/macosx-default-browser/02_AppleMacOSX-BrowserList.png" alt="Apple Mac OS X - Browser List.png">
+<img src="https://raghsonline.com/technical/macosx-default-browser/02_AppleMacOSX-BrowserList.png" alt="Apple Mac OS X - Browser List">
 
 ## `desktopbrowser` utility 
 
