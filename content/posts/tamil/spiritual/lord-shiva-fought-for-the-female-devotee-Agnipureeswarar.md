@@ -1,5 +1,5 @@
 ---
-title: "Lord Shiva Fought for the Female Devotee - Agneepureeswarar"
+title: "Lord Shiva Fought for the Female Devotee - Agnipureeswarar"
 date: 2023-09-03T14:54:06+05:30
 draft: false
 tags:
