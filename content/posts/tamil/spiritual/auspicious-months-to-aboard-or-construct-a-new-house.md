@@ -1,7 +1,7 @@
 ---
 title: "Auspicious Months to Aboard or Construct a New House"
 date: 2023-09-15T09:56:30+05:30
-draft: true
+draft: false
 tags:
   - Tamil
   - Spiritual
