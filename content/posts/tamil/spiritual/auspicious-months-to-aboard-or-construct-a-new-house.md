@@ -13,8 +13,7 @@ author: Raghs
 
 🕉 ஸ்ரீ குரு ஜோதிட ஐயர் 🕉 whatsapp குழு இணைவதற்கான லிங்க்
 
-
-https://chat.whatsapp.com/IQajGwYZpEV1YOmlA6fQhQ
+[https://chat.whatsapp.com/IQajGwYZpEV1YOmlA6fQhQ](https://chat.whatsapp.com/IQajGwYZpEV1YOmlA6fQhQ)
 
 🔯 வாடகை வீடு குடி போக, கிரகப்பிரவசம் செய்ய உகந்த மாதங்கள்.
 
@@ -110,7 +109,7 @@ https://chat.whatsapp.com/IQajGwYZpEV1YOmlA6fQhQ
 
 🕉 ஸ்ரீ குரு ஜோதிட ஐயர் 🕉 whatsapp குழு இணைவதற்கான லிங்க்
 
-https://chat.whatsapp.com/IQajGwYZpEV1YOmlA6fQhQ
+[https://chat.whatsapp.com/IQajGwYZpEV1YOmlA6fQhQ](https://chat.whatsapp.com/IQajGwYZpEV1YOmlA6fQhQ)
 
 
 Cheers,\
