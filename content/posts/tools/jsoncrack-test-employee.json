@@ -1,0 +1,585 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": {
+          "firstName": "Amit",
+          "lastName": "Patel"
+        },
+        "email": "amit.patel@example.com",
+        "department": {
+          "name": "Engineering",
+          "location": "Mumbai"
+        },
+        "position": "Software Engineer",
+        "salary": 80000,
+        "hireDate": "2019-06-10",
+        "projects": [
+          {
+            "name": "Project X",
+            "role": "Lead Developer",
+            "startDate": "2020-01-15",
+            "endDate": "2021-05-20"
+          },
+          {
+            "name": "Project Y",
+            "role": "Senior Developer",
+            "startDate": "2018-05-10",
+            "endDate": "2019-12-31"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": {
+          "firstName": "Priya",
+          "lastName": "Sharma"
+        },
+        "email": "priya.sharma@example.com",
+        "department": {
+          "name": "Marketing",
+          "location": "Delhi"
+        },
+        "position": "Marketing Manager",
+        "salary": 70000,
+        "hireDate": "2020-01-15",
+        "projects": [
+          {
+            "name": "Product Launch",
+            "role": "Project Manager",
+            "startDate": "2019-06-01",
+            "endDate": "2020-12-15"
+          },
+          {
+            "name": "Market Research",
+            "role": "Marketing Analyst",
+            "startDate": "2018-04-10",
+            "endDate": "2019-05-31"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": {
+          "firstName": "Rahul",
+          "lastName": "Kumar"
+        },
+        "email": "rahul.kumar@example.com",
+        "department": {
+          "name": "Finance",
+          "location": "Bangalore"
+        },
+        "position": "Financial Analyst",
+        "salary": 60000,
+        "hireDate": "2021-04-22",
+        "projects": [
+          {
+            "name": "Budget Analysis",
+            "role": "Financial Analyst",
+            "startDate": "2020-02-15",
+            "endDate": "2021-07-30"
+          },
+          {
+            "name": "Expense Reporting",
+            "role": "Finance Associate",
+            "startDate": "2019-03-10",
+            "endDate": "2020-01-31"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": {
+          "firstName": "Deepa",
+          "lastName": "Verma"
+        },
+        "email": "deepa.verma@example.com",
+        "department": {
+          "name": "Human Resources",
+          "location": "Pune"
+        },
+        "position": "HR Specialist",
+        "salary": 55000,
+        "hireDate": "2020-08-17",
+        "projects": [
+          {
+            "name": "Recruitment Drive",
+            "role": "HR Coordinator",
+            "startDate": "2019-10-01",
+            "endDate": "2020-05-30"
+          },
+          {
+            "name": "Employee Onboarding",
+            "role": "HR Assistant",
+            "startDate": "2018-07-10",
+            "endDate": "2019-09-30"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": {
+          "firstName": "Sanjay",
+          "lastName": "Joshi"
+        },
+        "email": "sanjay.joshi@example.com",
+        "department": {
+          "name": "Engineering",
+          "location": "Bengaluru"
+        },
+        "position": "Senior Software Engineer",
+        "salary": 85000,
+        "hireDate": "2018-03-25",
+        "projects": [
+          {
+            "name": "Project Z",
+            "role": "Lead Developer",
+            "startDate": "2017-09-15",
+            "endDate": "2019-04-30"
+          },
+          {
+            "name": "UI Enhancement",
+            "role": "Frontend Developer",
+            "startDate": "2016-05-10",
+            "endDate": "2017-09-01"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": {
+          "firstName": "Sneha",
+          "lastName": "Rajput"
+        },
+        "email": "sneha.rajput@example.com",
+        "department": {
+          "name": "Engineering",
+          "location": "Mumbai"
+        },
+        "position": "Software Engineer",
+        "salary": 75000,
+        "hireDate": "2019-07-14",
+        "projects": [
+          {
+            "name": "Project X",
+            "role": "Backend Developer",
+            "startDate": "2019-01-15",
+            "endDate": "2020-03-20"
+          },
+          {
+            "name": "Project Y",
+            "role": "Database Administrator",
+            "startDate": "2018-07-10",
+            "endDate": "2019-02-28"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": {
+          "firstName": "Rajesh",
+          "lastName": "Mishra"
+        },
+        "email": "rajesh.mishra@example.com",
+        "department": {
+          "name": "Marketing",
+          "location": "Delhi"
+        },
+        "position": "Marketing Coordinator",
+        "salary": 55000,
+        "hireDate": "2021-03-10",
+        "projects": [
+          {
+            "name": "Product Launch",
+            "role": "Marketing Analyst",
+            "startDate": "2020-02-15",
+            "endDate": "2021-04-30"
+          },
+          {
+            "name": "Market Research",
+            "role": "Marketing Specialist",
+            "startDate": "2019-04-10",
+            "endDate": "2020-01-31"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": {
+          "firstName": "Meera",
+          "lastName": "Kapoor"
+        },
+        "email": "meera.kapoor@example.com",
+        "department": {
+          "name": "Finance",
+          "location": "Bangalore"
+        },
+        "position": "Financial Analyst",
+        "salary": 60000,
+        "hireDate": "2018-09-17",
+        "projects": [
+          {
+            "name": "Budget Analysis",
+            "role": "Financial Analyst",
+            "startDate": "2017-12-15",
+            "endDate": "2019-08-30"
+        },
+        {
+          "name": "Expense Reporting",
+          "role": "Finance Associate",
+          "startDate": "2017-11-10",
+          "endDate": "2018-05-31"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": {
+        "firstName": "Neha",
+        "lastName": "Chopra"
+      },
+      "email": "neha.chopra@example.com",
+      "department": {
+        "name": "Human Resources",
+        "location": "Pune"
+      },
+      "position": "HR Specialist",
+      "salary": 55000,
+      "hireDate": "2021-02-10",
+      "projects": [
+        {
+          "name": "Recruitment Drive",
+          "role": "HR Coordinator",
+          "startDate": "2020-07-01",
+          "endDate": "2021-01-30"
+        },
+        {
+          "name": "Employee Onboarding",
+          "role": "HR Assistant",
+          "startDate": "2019-05-10",
+          "endDate": "2020-01-31"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": {
+        "firstName": "Kunal",
+        "lastName": "Gupta"
+      },
+      "email": "kunal.gupta@example.com",
+      "department": {
+        "name": "Engineering",
+        "location": "Bengaluru"
+      },
+      "position": "Senior Software Engineer",
+      "salary": 85000,
+      "hireDate": "2017-12-25",
+      "projects": [
+        {
+          "name": "Project Z",
+          "role": "Lead Developer",
+          "startDate": "2016-09-15",
+          "endDate": "2018-04-30"
+        },
+        {
+          "name": "UI Enhancement",
+          "role": "Frontend Developer",
+          "startDate": "2015-05-10",
+          "endDate": "2016-09-01"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": {
+        "firstName": "Smita",
+        "lastName": "Mohan"
+      },
+      "email": "smita.mohan@example.com",
+      "department": {
+        "name": "Marketing",
+        "location": "Delhi"
+      },
+      "position": "Marketing Specialist",
+      "salary": 60000,
+      "hireDate": "2020-05-20",
+      "projects": [
+        {
+          "name": "Product Launch",
+          "role": "Marketing Analyst",
+          "startDate": "2019-11-15",
+          "endDate": "2021-02-28"
+        },
+        {
+          "name": "Market Research",
+          "role": "Marketing Specialist",
+          "startDate": "2018-08-10",
+          "endDate": "2019-10-31"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": {
+        "firstName": "Harish",
+        "lastName": "Verma"
+      },
+      "email": "harish.verma@example.com",
+      "department": {
+        "name": "Finance",
+        "location": "Bangalore"
+      },
+      "position": "Financial Analyst",
+      "salary": 65000,
+      "hireDate": "2019-11-07",
+      "projects": [
+        {
+          "name": "Budget Analysis",
+          "role": "Financial Analyst",
+          "startDate": "2019-02-15",
+          "endDate": "2020-07-30"
+        },
+        {
+          "name": "Expense Reporting",
+          "role": "Finance Associate",
+          "startDate": "2018-06-10",
+          "endDate": "2019-01-31"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": {
+        "firstName": "Anita",
+        "lastName": "Rao"
+      },
+      "email": "anita.rao@example.com",
+      "department": {
+        "name": "Human Resources",
+        "location": "Pune"
+      },
+      "position": "HR Specialist",
+      "salary": 55000,
+      "hireDate": "2020-04-14",
+      "projects": [
+        {
+          "name": "Recruitment Drive",
+          "role": "HR Coordinator",
+          "startDate": "2019-08-01",
+          "endDate": "2020-04-30"
+        },
+        {
+          "name": "Employee Onboarding",
+          "role": "HR Assistant",
+          "startDate": "2018-05-10",
+          "endDate": "2019-01-31"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": {
+        "firstName": "Alok",
+        "lastName": "Joshi"
+      },
+      "email": "alok.joshi@example.com",
+      "department": {
+        "name": "Engineering",
+        "location": "Mumbai"
+      },
+      "position": "Software Engineer",
+      "salary": 75000,
+      "hireDate": "2019-07-14",
+      "projects": [
+        {
+          "name": "Project X",
+          "role": "Backend Developer",
+          "startDate": "2019-01-15",
+          "endDate": "2020-03-20"
+        },
+        {
+          "name": "Project Y",
+          "role": "Database Administrator",
+          "startDate": "2018-07-10",
+          "endDate": "2019-02-28"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": {
+        "firstName": "Nandini",
+        "lastName": "Mishra"
+      },
+      "email": "nandini.mishra@example.com",
+      "department": {
+        "name": "Marketing",
+        "location": "Delhi"
+      },
+      "position": "Marketing Coordinator",
+      "salary": 55000,
+      "hireDate": "2021-03-10",
+      "projects": [
+        {
+          "name": "Product Launch",
+          "role": "Marketing Analyst",
+          "startDate": "2020-02-15",
+          "endDate": "2021-04-30"
+        },
+        {
+          "name": "Market Research",
+          "role": "Marketing Specialist",
+          "startDate": "2019-04-10",
+          "endDate": "2020-01-31"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": {
+        "firstName": "Nitin",
+        "lastName": "Kapoor"
+      },
+      "email": "nitin.kapoor@example.com",
+      "department": {
+        "name": "Finance",
+        "location": "Bangalore"
+      },
+      "position": "Financial Analyst",
+      "salary": 60000,
+      "hireDate": "2018-09-17",
+      "projects": [
+        {
+          "name": "Budget Analysis",
+          "role": "Financial Analyst",
+          "startDate": "2017-12-15",
+          "endDate": "2019-08-30"
+        },
+        {
+          "name": "Expense Reporting",
+          "role": "Finance Associate",
+          "startDate": "2017-11-10",
+          "endDate": "2018-05-31"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": {
+        "firstName": "Mira",
+        "lastName": "Chopra"
+      },
+      "email": "mira.chopra@example.com",
+      "department": {
+        "name": "Human Resources",
+        "location": "Pune"
+      },
+      "position": "HR Specialist",
+      "salary": 55000,
+      "hireDate": "2021-02-10",
+      "projects": [
+        {
+          "name": "Recruitment Drive",
+          "role": "HR Coordinator",
+          "startDate": "2020-07-01",
+          "endDate": "2021-01-30"
+        },
+        {
+          "name": "Employee Onboarding",
+          "role": "HR Assistant",
+          "startDate": "2019-05-10",
+          "endDate": "2020-01-31"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": {
+        "firstName": "Vikas",
+        "lastName": "Gupta"
+      },
+      "email": "vikas.gupta@example.com",
+      "department": {
+        "name": "Engineering",
+        "location": "Bengaluru"
+      },
+      "position": "Senior Software Engineer",
+      "salary": 85000,
+      "hireDate": "2017-12-25",
+      "projects": [
+        {
+          "name": "Project Z",
+          "role": "Lead Developer",
+          "startDate": "2016-09-15",
+          "endDate": "2018-04-30"
+        },
+        {
+          "name": "UI Enhancement",
+          "role": "Frontend Developer",
+          "startDate": "2015-05-10",
+          "endDate": "2016-09-01"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": {
+        "firstName": "Rashmi",
+        "lastName": "Mohan"
+      },
+      "email": "rashmi.mohan@example.com",
+      "department": {
+        "name": "Marketing",
+        "location": "Delhi"
+      },
+      "position": "Marketing Specialist",
+      "salary": 60000,
+      "hireDate": "2020-05-20",
+      "projects": [
+        {
+          "name": "Product Launch",
+          "role": "Marketing Analyst",
+          "startDate": "2019-11-15",
+          "endDate": "2021-02-28"
+        },
+        {
+          "name": "Market Research",
+          "role": "Marketing Specialist",
+          "startDate": "2018-08-10",
+          "endDate": "2019-10-31"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": {
+        "firstName": "Rajiv",
+        "lastName": "Verma"
+      },
+      "email": "rajiv.verma@example.com",
+      "department": {
+        "name": "Finance",
+        "location": "Bangalore"
+      },
+      "position": "Financial Analyst",
+      "salary": 65000,
+      "hireDate": "2019-11-07",
+      "projects": [
+        {
+          "name": "Budget Analysis",
+          "role": "Financial Analyst",
+          "startDate": "2019-02-15",
+          "endDate": "2020-07-30"
+        },
+        {
+          "name": "Expense Reporting",
+          "role": "Finance Associate",
+          "startDate": "2018-06-10",
+          "endDate": "2019-01-31"
+        }
+      ]
+    }
+  ]
+}
+  
