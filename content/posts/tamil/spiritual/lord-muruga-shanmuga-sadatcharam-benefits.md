@@ -1,9 +1,10 @@
 ---
 title: "Lord Muruga Shanmuga Sadatcharam Benefits"
 date: 2024-01-08T16:59:07+05:30
-draft: true
+draft: false
 tags:
-  - TODO
+  - tamil
+  - spiritual
 toc: true
 author: Raghs
 ---
