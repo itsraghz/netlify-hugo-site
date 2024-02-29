@@ -17,7 +17,7 @@ author: Raghs
 
 <!--more-->
 
-<img src="https://raghsonline.com/hugo-site-related/spiritual/29Feb2024-Thu-SivaPerumaan-Pattabhishegam.jpeg" alt="Sri SivaPerumaan Pattabhishegam" />
+<img src="https://raghsonline.com/spiritual/29Feb2024-Thu-SivaPerumaan-Pattabhishegam.jpeg" alt="Sri SivaPerumaan Pattabhishegam" />
 
 பக்தர்களைக் காப்பதற்காக தமிழ்ப் புலவராக, சித்தராக, பிட்டுக்கு மண் சுமக்கும் தொழிலாளியாக, விறகு விற்பவராக பல வேடங்களைத் தாங்கி வந்தார். அவரே பாண்டிய நாட்டின் மன்னராகவும் வீற்றிருந்து ஆட்சி புரிந்தார்.இங்கு மீனாட்சியாக அவதரித்திருந்த பார்வதி தேவியைக் கூட, அவர் திருவிளையாடல் புரிந்தே திருமணம் செய்து கொண்டார்.
 
